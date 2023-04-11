@@ -225,19 +225,6 @@ nav ul li a:hover{
     align-items: center;
 }
 
-footer{
-    padding: 2rem var(--padding);
-    background-color: var(--bgcolor-1);
-    align-items: center;
-}
-
-
-footer p{
-    color: var(--lightcolor);
-    text-align: center;
-    width: 500px;
-}
-
 .cont{
     background-color: var(--seccolor);
     border-radius: 80px;
